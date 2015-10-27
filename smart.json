@@ -1,8 +1,8 @@
 {
-    "name": "andrefgneves:iconfont",
+    "name": "aheissenberger:iconfont",
     "description": "Generate an icon font from SVG files",
-    "homepage": "https://github.com/andrefgneves/meteor-iconfont",
-    "author": "Andre Neves (https://twitter.com/seven)",
-    "version": "0.1.8",
-    "git": "https://github.com/andrefgneves/meteor-iconfont.git"
+    "homepage": "https://github.com/aheissenberger/meteor-iconfont",
+    "author": "Andreas Heissenberger (https://github.com/aheissenberger)",
+    "version": "0.0.1",
+    "git": "https://github.com/aheissenberger/meteor-iconfont.git"
 }
